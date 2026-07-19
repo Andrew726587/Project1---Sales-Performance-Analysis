@@ -4,7 +4,7 @@
 
 This project analyzes retail sales data from the Sample Superstore dataset to uncover business insights using SQL, Python, and Microsoft Power BI.
 
-The objective was to identify sales trends, evaluate profitability, analyze regional performance, and create an interactive dashboard fpr decision.
+The objective was to identify sales trends, evaluate profitability, analyze regional performance, and create an interactive dashboard for decision.
 
 ## Objective
 
@@ -26,8 +26,8 @@ The objective was to identify sales trends, evaluate profitability, analyze regi
 
 ## Project workflow
 
-1. Imported the dataset into SQL Server.
-2. Cleaned and prepared the data using Python (Pandas).
+1. Cleaned and prepared the data using Python (Pandas).
+2. Imported the dataset into SQL Server.
 3. Performed SQL queries to answer business questions.
 4. Create visualizations with matplotlib.
 5. Built an interactive Power BI dashboard
@@ -53,11 +53,11 @@ The dashboard includes:
 - Total Sales KPI
 - Total Profit KPI
 - Number of Orders KPI
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Region
-- Region Filter
-- Category Filter
+- Monthly Sales Trend Chart
+- Sales by Category Chart
+- Sales by Region Chart
+- Region Slicer
+- Category Slicer
 
 ## Key Insights
 
@@ -76,9 +76,7 @@ Dashboard.png
 
 ## Dataset
 
-Sample Superstore Dataset
-
-This dataset is widely used for learning data analysis and business intelligence
+Sample - Superstore Dataset
 
 ## Skills Demonstrated
 
